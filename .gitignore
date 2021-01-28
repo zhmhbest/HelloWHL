@@ -1,0 +1,9 @@
+.trash/
+__pycache__/
+
+/.idea/
+/.vscode/
+
+/src/build/
+/src/dist/
+/src/*.egg-info/
